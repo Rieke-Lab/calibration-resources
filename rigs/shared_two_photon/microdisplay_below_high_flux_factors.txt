@@ -1,0 +1,5 @@
+date	user	intensity	diameter	power	factor	note
+11-Jul-2017 15:03:18	Fred Rieke	1	500	15.33	7.80750488831602e-05	
+11-Jul-2017 14:52:28	Fred Rieke	1	500	15.3	7.7922260137792e-05	
+05-Jun-2017 13:43:07	Fred Rieke	1	500	9.03	4.59894123558341e-05	
+28-Nov-2017 10:49:27	Max Turner	1	500	12.49	6.36110476549687e-05	Light path has a 2 NDF in it right after the 50/50. I think this has always been there but haven't noticed it before. This is why the microdisplay appears so dim on this rig. Somebody probably put it on to cut down the LED intensity. I'm keeping it on.

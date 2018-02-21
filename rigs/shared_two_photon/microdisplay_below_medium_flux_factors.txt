@@ -1,0 +1,5 @@
+date	user	intensity	diameter	power	factor	note
+11-Jul-2017 15:03:09	Fred Rieke	1	500	0.85	4.32901445209955e-06	
+11-Jul-2017 14:52:17	Fred Rieke	1	500	0.86	4.37994403388896e-06	
+05-Jun-2017 13:42:50	Fred Rieke	1	500	0.49	2.49554950768092e-06	
+28-Nov-2017 10:49:49	Max Turner	1	500	0.68	3.46321156167964e-06	
