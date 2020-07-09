@@ -1,0 +1,2 @@
+date	user	intensity	diameter	power	factor	note
+28-Mar-2019 14:18:02	Fred Rieke	1	500	0	0	
