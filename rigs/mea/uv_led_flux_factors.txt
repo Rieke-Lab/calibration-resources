@@ -1,0 +1,2 @@
+date	user	intensity	diameter	power	factor	note
+25-Apr-2022 11:05:15	Fred	1	1500	2.2	1.24494533262994e-06	
