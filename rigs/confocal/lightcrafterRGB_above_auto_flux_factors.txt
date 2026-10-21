@@ -1,0 +1,4 @@
+date	user	intensity	diameter	power	factor	note
+30-Mar-2021 16:57:23	Fred Rieke	1	500	127800	0.650880055268615	
+30-Mar-2021 16:21:38	Fred Rieke	1	500	53700	0.273491854209113	
+26-May-2020 13:08:38	Fred Rieke	1	500	73700	0.375351017787926	

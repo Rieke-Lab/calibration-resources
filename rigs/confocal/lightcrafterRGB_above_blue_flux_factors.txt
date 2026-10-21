@@ -1,0 +1,4 @@
+date	user	intensity	diameter	power	factor	note
+30-Mar-2021 16:59:27	Fred Rieke	1	500	3100	0.015788170354716	
+30-Mar-2021 16:25:19	Fred Rieke	1	500	1770	0.00901453597672495	added blue filter to path
+26-May-2020 13:10:52	Fred Rieke	1	500	21200	0.107970713393542	
